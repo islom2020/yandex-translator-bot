@@ -17,12 +17,12 @@ public class MyBot extends TelegramLongPollingBot implements Constants {
 
     @Override
     public String getBotUsername() {
-        return "@islomjon_test_bot";
+        return "@firstlybot_bot";
     }
 
     @Override
     public String getBotToken() {
-        return "5084296930:AAFxAYs5wmuMcf02Bi_2jH2p1bDteIrTO50";
+        return "5087956267:AAGgNUPuPujhsqAD124mD-7ji4kYjG7TDDQ";
     }
 
     @Override
